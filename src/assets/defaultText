@@ -1,0 +1,4 @@
+program HelloWorld; // название программы + точка с запятой
+begin
+    writeln('Привет Мир!');
+end.
